@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "FULL FORCE",
+  "base_artist": "RIDER CHIPS",
+  "createdAt": "2026-02-08T03:21:00.862760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Lisa Lisa / Full Force Routine",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/01_The_Lisa_Lisa___Full_Force_Routine_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Lisa Lisa\u0000Full Force Routine",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/02_The_Lisa_Lisa\u0000Full_Force_Routine_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Cried Out (with Full Force)",
+      "artist": "Lisa Lisa & Cult Jam",
+      "has_synced": true,
+      "path": "select/03_All_Cried_Out_(with_Full_Force)_Lisa_Lisa_&_Cult_Jam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Cried Out (with Full Force)",
+      "artist": "Lisa Lisa & Cult Jam With Full Force",
+      "has_synced": true,
+      "path": "select/04_All_Cried_Out_(with_Full_Force)_Lisa_Lisa_&_Cult_Jam_With_Full_Force.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can You Feel the Beat (with Full Force)",
+      "artist": "Lisa Lisa & Cult Jam",
+      "has_synced": true,
+      "path": "select/05_Can_You_Feel_the_Beat_(with_Full_Force)_Lisa_Lisa_&_Cult_Jam.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can You Feel the Beat (with Full Force)",
+      "artist": "Lisa Lisa & Cult Jam With Full Force",
+      "has_synced": true,
+      "path": "select/06_Can_You_Feel_the_Beat_(with_Full_Force)_Lisa_Lisa_&_Cult_Jam_With_Full_Force.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Full Force Gale",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/07_Full_Force_Gale_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Full Force Gale",
+      "artist": "Elvis Costello",
+      "has_synced": false,
+      "path": "select/08_Full_Force_Gale_Elvis_Costello.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Someone to Love Me for Me (Duet with Full Force)",
+      "artist": "Lisa Lisa & Cult Jam",
+      "has_synced": false,
+      "path": "select/09_Someone_to_Love_Me_for_Me_(Duet_with_Full_Force)_Lisa_Lisa_&_Cult_Jam.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Your Love Is So Def (Full Force remix)",
+      "artist": "Full Force",
+      "has_synced": false,
+      "path": "select/10_Your_Love_Is_So_Def_(Full_Force_remix)_Full_Force.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Wonder If I Take You Home (feat. Full Force)",
+      "artist": "Lisa Lisa & Cult Jam & Full Force",
+      "has_synced": true,
+      "path": "select/11_I_Wonder_If_I_Take_You_Home_(feat._Full_Force)_Lisa_Lisa_&_Cult_Jam_&_Full_Force.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Wonder If I Take You Home (with Full Force)",
+      "artist": "Lisa Lisa & Cult Jam",
+      "has_synced": false,
+      "path": "select/12_I_Wonder_If_I_Take_You_Home_(with_Full_Force)_Lisa_Lisa_&_Cult_Jam.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Wonder If I Take You Home (with Full Force)",
+      "artist": "Lisa Lisa & Cult Jam",
+      "has_synced": false,
+      "path": "select/13_I_Wonder_If_I_Take_You_Home_(with_Full_Force)_Lisa_Lisa_&_Cult_Jam.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Full Force Gale '96",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/14_Full_Force_Gale_'96_Van_Morrison.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FULL FORCE",
+      "artist": "RIDER CHIPS",
+      "has_synced": false,
+      "path": "select/pl_01_FULL_FORCE_RIDER_CHIPS.txt"
+    }
+  ]
+}
